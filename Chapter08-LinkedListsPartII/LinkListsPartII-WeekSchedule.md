@@ -52,7 +52,7 @@ Given circular list k=>e=>l=>v=>i=>n=>l=>v=>..., return 6.
 
 **Friday**
 
-'''
+```
 function DLNode(value){
 	this.val = value;
 	this.prev = null;
@@ -63,7 +63,7 @@ function DList(){
 	this.head = null;
 	this.tail = null;
 }
-'''
+```
 
 
 DList: Class
